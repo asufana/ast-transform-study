@@ -1,0 +1,18 @@
+
+target/
+release.properties
+
+# eclipse stuff
+.classpath
+.project
+.settings
+.factorypath
+eclipse/
+
+# playframework1
+tmp/
+test-result/
+
+# misc
+.DS_Store
+
